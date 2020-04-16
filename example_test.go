@@ -7,7 +7,7 @@ import (
 	"log"
 	"time"
 
-	"gopkg.in/mail.v2"
+	"github.com/daemonfire300/mail/v2"
 )
 
 func Example() {
